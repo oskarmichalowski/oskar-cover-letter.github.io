@@ -1,5 +1,7 @@
+import { defineConfig} from 'vite'
+
 // vite.config.js
-export default {
-    base: "/oskar-cover-letter.github.io/"
-  }
-   
+export default defineConfig({
+  base: "/oskar-cover-letter.github.io/"
+}
+ )
