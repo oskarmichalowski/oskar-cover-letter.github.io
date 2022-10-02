@@ -1,5 +1,5 @@
 // vite.config.js
 export default {
-    base: "/oskar-cover-letter/"
+    base: "/oskar-cover-letter.github.io/"
   }
    
